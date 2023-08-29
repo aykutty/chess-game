@@ -10,9 +10,6 @@ public class Square {
         this.piece = null;
     }
 
-
-    //elif
-
     public int getRow() {
         return row;
     }
