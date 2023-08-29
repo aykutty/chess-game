@@ -10,6 +10,7 @@ public class Square {
         this.piece = null;
     }
 
+    
     public int getRow() {
         return row;
     }
