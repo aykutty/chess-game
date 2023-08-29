@@ -10,6 +10,8 @@ public class Square {
         this.piece = null;
     }
 
+
+    //mergedeneme
     public int getRow() {
         return row;
     }
